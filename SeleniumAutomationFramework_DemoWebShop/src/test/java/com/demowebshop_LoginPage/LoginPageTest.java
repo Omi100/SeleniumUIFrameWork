@@ -1,15 +1,14 @@
 package com.demowebshop_LoginPage;
 
-import java.io.File;
+
 import java.io.IOException;
 
 
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
+
 
 import org.openqa.selenium.WebElement;
 
-import org.openqa.selenium.io.FileHandler;
+
 import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
