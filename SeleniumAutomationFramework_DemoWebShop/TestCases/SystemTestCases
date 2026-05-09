@@ -1,0 +1,19 @@
+TC_001
+Scenario : To verify if the user is able to login using valid credentials.
+Required Data : URL = "https://demowebshop.tricentis.com/"
+			    Email : "omkarghadage999@gmail.com"
+			    Password : "omkar123"
+			    
+Steps : 
+
+1)Launch Chrome Browser
+2)Navigate to DemoWebShop Application
+3)Click On Login Link 
+4)Enter Valid Email Id and Password
+5)Click on the Profile Link - > We will redirected to myAccount Page
+6)verify if user is navigated to myAccount Page
+7)click on Logout Button
+8)Verify That Logout is successful
+
+
+
